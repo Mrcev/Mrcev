@@ -24,9 +24,9 @@
 
 Ankara'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **Tetra HGS** bünyesinde Sistem Yönetim Asistanı olarak çalışıyorum. Hem kurumsal sistemleri yönetiyor hem de akademik hayatımda IEEE gibi topluluklarda aktif liderlik rolleri üstleniyorum.
 
-* [span_0](start_span)[span_1](start_span)🔭 Şu an üzerinde çalıştığım proje: **Kapsamlı Home Lab Ortamım (Proxmox, Wazuh, OPNsense)**[span_0](end_span)[span_1](end_span).
+* 🔭 Şu an üzerinde çalıştığım proje: **Kapsamlı Home Lab Ortamım (Proxmox, Wazuh, OPNsense)**.
 * 🌱 Öğrenmeye devam ettiğim konular: **Hibrit Bulut Yönetimi, İleri Seviye Ağ Güvenliği**.
-* [span_2](start_span)🎓 Eğitim: **Türk Hava Kurumu Üniversitesi** - Bilgisayar Mühendisliği[span_2](end_span).
+* 🎓 Eğitim: **Türk Hava Kurumu Üniversitesi** - Bilgisayar Mühendisliği.
 * ⚡ Hobi: Eski Apple donanımları ve sunucu mimarileri.
 
 ---
@@ -48,14 +48,14 @@ Ankara'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **
 
 ### 💼 Deneyim
 
-**[span_3](start_span)Sistem Yönetim Asistanı @ Tetra HGS Elektronik Sistemleri** _(Ocak 2025 - Günümüz)_[span_3](end_span)
+**Sistem Yönetim Asistanı @ Tetra HGS Elektronik Sistemleri** _(Ocak 2025 - Günümüz)_
 * Dell Poweredge ve HP Proliant sunucu kurulumu ve yönetimi.
 * Proxmox, VMware vCenter ve ESXi yönetimi.
 * Nagios XI ve Zabbix ile sistem izleme altyapılarının kurulması.
 * Veeam Backup ile veri güvenliğinin sağlanması.
-* [span_4](start_span)Microsoft Exchange kurulumu ve NTP sunucu yapılandırması[span_4](end_span).
+* Microsoft Exchange kurulumu ve NTP sunucu yapılandırması.
 
-**[span_5](start_span)Sistem Yönetim Stajyeri @ Tetra HGS Elektronik Sistemleri** _(Ocak 2024 - Aralık 2024)_[span_5](end_span)
+**Sistem Yönetim Stajyeri @ Tetra HGS Elektronik Sistemleri** _(Ocak 2024 - Aralık 2024)_
 * Windows Server ve Linux (Ubuntu/Debian) sistem yönetimi.
 * Active Directory yönetimi ve PowerShell ile otomasyon süreçleri.
 
@@ -64,19 +64,19 @@ Ankara'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **
 ### 🏗️ Öne Çıkan Projeler
 
 #### 🏠 [Home Lab Ortamı](https://zabbix.gokberkceviker.com.tr)
-[span_6](start_span)Kendi evimde kurduğum, kurumsal IT altyapılarını simüle eden dinamik laboratuvar ortamı[span_6](end_span).
+Kendi evimde kurduğum, kurumsal IT altyapılarını simüle eden dinamik laboratuvar ortamı.
 * **Tech Stack:** Proxmox VE, VMware ESXi, OPNsense, Wazuh, Cloudflare Zero Trust, Docker.
 * **Amaç:** Sistem yönetimi, ağ güvenliği ve otomasyon becerilerini geliştirmek.
 
 #### 🌐 [IEEE THKU Web Sitesi](https://ieeethku.com.tr)
-[span_7](start_span)THK Üniversitesi IEEE öğrenci kolunun resmi web sitesinin yönetimi ve geliştirilmesi[span_7](end_span).
+THK Üniversitesi IEEE öğrenci kolunun resmi web sitesinin yönetimi ve geliştirilmesi.
 * 10+ komitenin ve geçmiş etkinlik arşivinin dijital yönetimi.
 
 ---
 
 ### 🎓 Topluluk ve Liderlik
 
-* **[span_8](start_span)Acting University Student Representative** - THK Üniversitesi[span_8](end_span)
+* **Acting University Student Representative** - THK Üniversitesi
 * **Vice Chair** - IEEE THKU
 * **Chair** - IEEE Robotics and Automation Society
 * **Co-Leader** - MAKERLAB Hardware Team
