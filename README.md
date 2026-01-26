@@ -77,8 +77,8 @@ THK Üniversitesi IEEE öğrenci kolunun resmi web sitesinin yönetimi ve geliş
 ### 🎓 Topluluk ve Liderlik
 
 * **Acting University Student Representative** - THK Üniversitesi
-* **Vice Chair** - IEEE THKU
-* **Chair** - IEEE Robotics and Automation Society
+* **Vice Chair of The Board** - IEEE THKU
+* **Chair of RAS Chapter** - IEEE THKU
 * **Co-Leader** - MAKERLAB Hardware Team
 
 ---
