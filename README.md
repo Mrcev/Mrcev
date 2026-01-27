@@ -27,7 +27,6 @@ Ankara'da yaşayan bir **Bilgisayar Mühendisliği** öğrencisiyim. Şu anda **
 * 🔭 Şu an üzerinde çalıştığım proje: **Kapsamlı Home Lab Ortamım (Proxmox, Wazuh, OPNsense)**.
 * 🌱 Öğrenmeye devam ettiğim konular: **Hibrit Bulut Yönetimi, İleri Seviye Ağ Güvenliği**.
 * 🎓 Eğitim: **Türk Hava Kurumu Üniversitesi** - Bilgisayar Mühendisliği.
-* ⚡ Hobi: Eski Apple donanımları ve sunucu mimarileri.
 
 ---
 
