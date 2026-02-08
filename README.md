@@ -27,7 +27,7 @@ I am a **Computer Engineering** student based in Ankara, Turkey. Currently, I wo
 * 🔭 I’m currently working on: **My Comprehensive Home Lab (Proxmox, Wazuh, OPNsense)**.
 * 🌱 I’m currently learning: **Hybrid Cloud Management, Advanced Network Security**.
 * 🎓 Education: **University of Turkish Aeronautical Association** - Computer Engineering.
-* ⚡ Fun fact: I have a keen interest in vintage Apple hardware and server architectures.
+* ⚡ Fun fact: I have a keen interest in vintage hardware and server architectures.
 
 ---
 
